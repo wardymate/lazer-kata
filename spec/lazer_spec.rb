@@ -32,14 +32,14 @@ describe String do
 		expect(string.lazer(4)).to eq "a____f"
 	end
 
-	context 'Bonus' do
+	# context 'Bonus' do
 
-		it 'should return "cojdeam" when passed the string "codejam"' do
-			string = "codejam"
-			expect(string.lazer(3,:stun)).to eq "cojdeam"
-		end
+	# 	it 'should return "cojdeam" when passed the string "codejam"' do
+	# 		string = "codejam"
+	# 		expect(string.lazer(3,:stun)).to eq "cojdeam"
+	# 	end
 
-	end
+	# end
 
 
 
